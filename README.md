@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/EhsanVosoughi/Ehsanvosough
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+```markdown
 ### Formation académique 
 
 **Institut national de la recherche scientifique** - Québec City, Canada
@@ -29,7 +30,7 @@ Directeur: Dr. Javaherian, Classé troisième de la promotion Petroleum Explorat
 _Thèse: Estimation de la porosité et de la perméabilité par intégration des données sismiques proches et éloignées de la production et du temps écoulé_
 
 Directeur: Dr. Ahmadi, Classé troisième de la promotion en génie pétrolier
-
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
