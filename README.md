@@ -6,25 +6,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Formation académique 
 
-Institut national de la recherche scientifique - Québec City, Canada
+**Institut national de la recherche scientifique** - Québec City, Canada
 
-Ph.D., GPA: 4.33 / 4.33, Sep 2018 – Présent
+**Ph.D., GPA: 4.33 / 4.33**, Sep 2018 – Présent
 
-Thèse:  Étude  de  l'effet  de  l'injection  de  CO2   sur  un  échantillon  de  roche  par  la  vitesse  sismique  et  la résistivité électrique, Directeur: Dr. Bernard Giroux
+_Thèse:  Étude  de  l'effet  de  l'injection  de  CO2   sur  un  échantillon  de  roche  par  la  vitesse  sismique  et  la résistivité électrique_
 
-Université de Technologie d'Amirkabir - Téhéran, Iran     
+Directeur: Dr. Bernard Giroux
 
-M.Sc., GPA: 3.72/4, Sep 2013 - Sep 2015
+**Université de Technologie d'Amirkabir** - Téhéran, Iran     
 
-Thèse: Estimation d'ondelettes par des méthodes d'optimisation dans un champ d'hydrocarbures
+**M.Sc., GPA: 3.72/4**, Sep 2013 - Sep 2015
+
+_Thèse: Estimation d'ondelettes par des méthodes d'optimisation dans un champ d'hydrocarbures_
 
 Directeur: Dr. Javaherian, Classé troisième de la promotion Petroleum Exploration Engineering
 
-Université des Sciences et de la Recherche - Téhéran, Iran
+**Université des Sciences et de la Recherche** - Téhéran, Iran
 
-B.Sc., GPA: 3.81/4, Sep 2010 - Sep 2013
+**B.Sc., GPA: 3.81/4**, Sep 2010 - Sep 2013
 
-Thèse: Estimation de la porosité et de la perméabilité par intégration des données sismiques proches et éloignées de la production et du temps écoulé
+_Thèse: Estimation de la porosité et de la perméabilité par intégration des données sismiques proches et éloignées de la production et du temps écoulé_
 
 Directeur: Dr. Ahmadi, Classé troisième de la promotion en génie pétrolier
 
