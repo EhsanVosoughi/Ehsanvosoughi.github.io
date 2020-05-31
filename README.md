@@ -33,9 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
-Ehsan.vosoughi@ete.inrs.ca
+**Email**: Ehsan.vosoughi@ete.inrs.ca
 
-+1 581 578 6535
+**Telephone**: +1 581 578 6535
 
 **linkedin**: www.linkedin.com/in/ehsanvosoughi
 
