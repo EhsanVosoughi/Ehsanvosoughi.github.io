@@ -34,8 +34,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 Ehsan.vosoughi@ete.inrs.ca
+
 +1 581 578 6535
+
 **linkedin**: www.linkedin.com/in/ehsanvosoughi
+
 **Googel Scholar**: https://scholar.google.com/citations?user=2Up2zLwAAAAJ&hl=en
 
 ### Address 
