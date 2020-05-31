@@ -34,6 +34,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Image of Québec Mines Énergie-2019](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/blob/master/Québec%20Mines%20Énergie-2019.png)
 
+Two middle, Parham Adiban (left), Me (right)
+Québec Mines Énergie-2019, Québec, Canada
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
