@@ -1,5 +1,4 @@
-## Welcome to my page
-  ## Bienvenue sur ma page
+## Welcome to my homepage (Bienvenue)
 
 You can use the [editor on GitHub](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
