@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-![Alt Text](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/blob/master/Québec%20Mines%20Énergie-2019.png)
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -32,8 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-![Image of Québec Mines Énergie-2019]
-(https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/blob/master/Québec%20Mines%20Énergie-2019.png)
+![Image of Québec Mines Énergie-2019](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/blob/master/Québec%20Mines%20Énergie-2019.png)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EhsanVosoughi/Ehsanvosoughi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
